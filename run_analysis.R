@@ -55,4 +55,5 @@ X <- cbind(activity, X)
 # now X contains all the means and standard deviations,
 # the test subject numbers, and the activity the test subject is
 # actually performing, which should be everything we need.
-df <- X
+# so let's just write it to a file
+write.table(x = X, file = "shartidy.txt", row.names = FALSE)

@@ -7,7 +7,7 @@
 
 # The Columns from the Tidy File
 ##Variables from X_train.txt and X_test.txt:
-For descriptions of these, consult _features_info.txt_ and _features.txt_, under the directory _dataset_ in this github repository.
+For descriptions of these, consult _features\_info.txt_ and _features.txt_, under the directory _dataset_ in this github repository.
 
 Only variables whose names in features.txt contain "mean()" "std()" are included in the outputted data file.
 
@@ -21,9 +21,11 @@ __Corner frequency??__
 
 I thought that a professional math background wasn't required for this specialization!
 
-Well, I sort-of gave you the units and the variable descriptions, so yay, job well don.
+Well, I sort-of gave you the units and the variable descriptions, so yay, job well done.
 
 ~~I'm just fooling myself, aren't I?~~
+
+Well, at least I'll be giving everyone full markes if they provided _features.txt_ and _features\_info.txt_ with their submission.
 
 ## Othervariables
 _subject_: a number indicating which subject the data is gathered from
